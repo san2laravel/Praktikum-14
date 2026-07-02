@@ -1,5 +1,5 @@
 # ============================================================
-#  SISTEM MANAJEMEN TURNAMEN MOBILE LEGENDS ANTAR TIM
+#  SISTEM MANAJEMEN KEJUARAN TURNAMEN E-FOOTBALL
 #  Mata Kuliah : Algoritma dan Pemrograman
 #  Deskripsi   : Program CLI untuk mengelola data pertandingan
 #                Mobile Legends menggunakan file CSV sebagai
